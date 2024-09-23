@@ -1,3 +1,3 @@
-# Map internationnal collaborations at INPHYNI
+# Map international collaborations at INPHYNI
 
 This project aims at mapping the international collaborations of the Institue of Physics of Nice (INPHYNI).
